@@ -8,27 +8,27 @@
 
   "icons": [
     {
-      "src": "/imgApp/icon-ios-20@2x-1.png",
+      "src": "icon-ios-20@2x-1.png",
       "type": "image/png",
       "sizes": "40x40"
     },
     {
-      "src": "/imgApp/icon-ios-29@2x-1.png",
+      "src": "icon-ios-29@2x-1.png",
       "type": "image/png",
       "sizes": "58x58"
     },
     {
-      "src": "/imgApp/icon-ios-40@2x-1.png",
+      "src": "icon-ios-40@2x-1.png",
       "type": "image/png",
       "sizes": "80x80"
     },
     {
-      "src": "/imgApp/icon-ios-60@2x.png",
+      "src": "icon-ios-60@2x.png",
       "type": "image/png",
       "sizes": "120x120"
     },
     {
-      "src": "/imgApp/icon-ios-1024@1x.png",
+      "src": "icon-ios-1024@1x.png",
       "type": "image/png",
       "sizes": "1024x1024"
     }
